@@ -1,0 +1,30 @@
+_repo: The-1993-CIA-World-Factbook_87
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. Central Intelligence Agency
+    aliases:
+    - CIA (Central Intelligence Agency (U.S.))
+    - Central Intelligence Agency (U.S.)
+    - Agency, United States. Central Intelligence
+    gutenberg_agent_id: '8'
+    url: http://www.gutenberg.org/2009/agents/8
+description: ''
+gutenberg_bookshelf: CIA World Factbooks
+gutenberg_issued: '1993-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '87'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geography -- Handbooks, manuals, etc.'
+- !lcsh 'Political science -- Handbooks, manuals, etc.'
+- !lcc 'G'
+- !lcsh 'World politics -- Handbooks, manuals, etc.'
+- !lcsh 'Political statistics -- Handbooks, manuals, etc.'
+- GITenberg
+title: The 1993 CIA World Factbook
+url: http://www.gutenberg.org/ebooks/87
