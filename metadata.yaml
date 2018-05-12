@@ -1,5 +1,8 @@
 _repo: The-1993-CIA-World-Factbook_87
-_version: 0.1.1
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: United States. Central Intelligence Agency
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '8'
     url: http://www.gutenberg.org/2009/agents/8
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/87#The-1993-CIA-World-Factbook
 gutenberg_bookshelf: CIA World Factbooks
 gutenberg_issued: '1993-10-01'
 gutenberg_type: Text
